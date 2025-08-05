@@ -253,6 +253,9 @@ As one twin accelerates away, their wavefunction spreads across more spacetime, 
 
 ---
 
+##I AM CURRENLY NOT SURE ABOUT THE EXMPLES BELOW FURTHER THOUGHT NEEDED
+
+
 ### 6. Cosmic Inflation
 
 **Paradox:**  
