@@ -14,6 +14,29 @@ Under this framework, systems with greater waveform resolution complexity — du
 This reframing dissolves the distinction between quantum evolution and relativistic time dilation by viewing both as limits imposed by a finite-resolution gate mesh. Collapse, motion, and even black hole formation are recast as computational behaviors — all governed by the cost of resolving probability into observation.
 
 ---
+---
+
+## 0. Assumptions
+
+To support this model, we make a few foundational assumptions about the nature of physical reality:
+
+1. **Planck Time is a Real Constraint**  
+   We assume that Planck time represents the smallest meaningful unit of causal change — the "tick rate" of the universe’s underlying computational substrate.
+
+2. **The Universe is Fully Entangled**  
+   We posit that all parts of the universe are fundamentally entangled through shared wavefunction interactions. Observation and measurement are not binary events, but partial resolutions across this mesh.
+
+3. **Quantum Waveform Resolution Requires Computational Effort**  
+   Evolution of quantum states — including collapse — requires a finite number of operations akin to quantum gates. These operations are not free and are constrained by locality and complexity.
+
+4. **Time Emerges from Gate Operations**  
+   Time is not a backdrop but a side-effect of how complex a system’s resolution is. What we experience as the passage of time is the system’s progress through a sequence of resolvable changes.
+
+5. **Speed-of-Light is a Resolution Rate Limit**  
+   The speed of light acts as a universal compute throttle: the fastest resolvable change between two locations in spacetime under the Planck clock.
+
+These assumptions are consistent with known physics but reinterpret fundamental constants and limits as constraints on computation, not intrinsic properties of "stuff."
+
 
 ## 1. Introduction
 
@@ -129,3 +152,103 @@ This model also suggests a deeper interpretation of quantum experiments: not as 
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.  
 To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
+
+---
+
+## Appendix A: Resolved Paradoxes and Conceptual Examples
+
+This model reframes several long-standing paradoxes in physics by interpreting time, mass, and collapse as outcomes of quantum gate compute constraints.
+
+### 1. Entanglement Collapse and Observation
+
+**Paradox:**  
+How can measuring one particle in an entangled pair instantaneously affect the state of the other, potentially at vast distances?
+
+**Resolution in this Model:**  
+Entanglement is not "snapped" by observation — it is *reintegrated*. In isolated experiments, decoherence is artificially delayed by removing environmental influence (gate noise). Observation — often called "measurement" — reconnects the entangled pair to the global resolution mesh, triggering final waveform resolution via entanglement with the environment. The perceived "instantaneous" collapse is not a superluminal signal but a byproduct of previously unresolved gate paths completing all at once. This avoids causality violations while preserving entanglement realism.
+
+**Example:**  
+In a Bell test experiment, detectors are spaced light-years apart. When one detector measures a particle, the other state appears fixed instantly. This model interprets that moment as the global mesh completing resolution — the full system’s entanglement was never broken; the outside world simply wasn’t yet involved until measurement occurred.
+
+---
+
+More paradoxes and conceptual resolutions can be added as the model develops.
+
+### 2. Black Hole Formation and the Event Horizon
+
+**Paradox:**  
+How can something become invisible beyond the event horizon, and what happens to information that crosses it?
+
+**Resolution in this Model:**  
+Black holes represent regions of maximal waveform complexity — gate cost becomes infinite for external observers. The event horizon marks the point at which resolving internal states from the outside requires more gate operations than are available under the universe’s causal constraints. Collapse into a black hole is not a spatial vanishing, but a computational overload — a causal boundary forms where no further external resolution is possible.
+
+**Example:**  
+As matter collapses under gravity, waveform overlap and entanglement density increase. Eventually, the compute cost for further resolution from an external observer exceeds available throughput — time appears to "stop" at the horizon. From within, processes may continue relative to local time, but they are no longer causally connected to the outside mesh.
+
+---
+
+### 3. Hawking Radiation and Information Loss
+
+**Paradox:**  
+If black holes evaporate via Hawking radiation, what happens to the information that fell in? Does it violate unitarity?
+
+**Resolution in this Model:**  
+Information isn’t destroyed but *disentangled and diffused*. Hawking radiation is not pure thermal noise but represents the slow release of resolved quantum states via quantum tunneling and horizon fluctuations. These processes occur when the global mesh can begin re-resolving gate paths at the edge of the horizon — a gradual external re-entanglement.
+
+**Example:**  
+As black holes evaporate, gate cost at the horizon decreases. Certain quantum fluctuations at the edge may allow previously unresolved entangled information to recompute into outgoing radiation. The model suggests that evaporation is not a destruction of information, but a resolution bottleneck that eventually clears over vast timeframes.
+
+
+---
+
+### 4. The Forward Arrow of Time
+
+**Paradox:**  
+Why does time seem to flow in one direction, even though the laws of physics are largely time-symmetric?
+
+**Resolution in this Model:**  
+The arrow of time emerges from the progressive resolution of wavefunctions via quantum gate operations. Once a system's entanglements are resolved through gate execution, they cannot be "unresolved" without violating causal continuity. The universe’s gate mesh has a memory — not of past states, but of spent compute paths. Time flows forward because computation (gate execution) only accumulates in one direction.
+
+**Example:**  
+Consider a cooled gas expanding into a vacuum. Each particle’s waveform evolves and entangles with others in increasingly complex patterns. Even though the underlying equations could be reversed, the gate operations that built those patterns can’t be undone without replaying them in reverse — an operation that the mesh doesn’t support by default. This irreversibility of gate cost accumulation gives rise to entropy and the psychological and thermodynamic arrows of time.
+
+
+---
+
+### 5. Twin Paradox
+
+**Paradox:**  
+Why does a traveling twin age less than the one who stays on Earth, even though motion is relative?
+
+**Resolution in this Model:**  
+Gate load isn't symmetric — the traveling twin's waveform complexity increases due to acceleration and high relative velocity, requiring more gate operations per unit of perceived time. From the global mesh’s perspective, the twin in motion experiences fewer observable ticks. The asymmetry arises from differing gate density and compute budgets, not merely relative motion.
+
+**Example:**  
+As one twin accelerates away, their wavefunction spreads across more spacetime, increasing gate resolution cost. Upon returning, their experienced time is shorter because the global mesh required more effort to resolve their motion — thus fewer "ticks" were observed.
+
+---
+
+### 6. Cosmic Inflation
+
+**Paradox:**  
+How could regions of the early universe become causally connected so quickly — faster than light would allow?
+
+**Resolution in this Model:**  
+Inflation reflects a change in gate topology, not signal propagation. During early universal conditions, the causal mesh may have had fewer constraints or higher gate throughput, allowing extremely rapid state resolution. This model reframes inflation as a shift in computational conditions rather than a violation of relativistic limits.
+
+**Example:**  
+The gate budget of the universe during the Planck epoch may have supported a looser mesh — making waveform resolution nearly instantaneous over large regions. As entanglement density increased, the mesh self-throttled, giving rise to normal spacetime behavior and the speed-of-light gate limit.
+
+---
+
+### 7. Quantum Decoherence
+
+**Paradox:**  
+Why does decoherence appear to select classical states from quantum ones? Where does the quantum-to-classical boundary arise?
+
+**Resolution in this Model:**  
+Decoherence is the gradual entanglement of a quantum system with the global gate mesh (the environment). As more gate operations resolve the system’s entanglement paths, the system’s superposition collapses into a classical-looking state. The boundary is not fundamental but reflects the gate load needed to resolve high-dimensional entanglement.
+
+**Example:**  
+A qubit held in isolation retains its probabilistic waveform. Once it begins interacting with nearby matter or measuring devices, it incurs external gate load — the environment acts as a massive resolver. The more gates involved, the more likely the system settles into a resolved classical state.
+
