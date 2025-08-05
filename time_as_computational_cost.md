@@ -200,7 +200,11 @@ As matter collapses under gravity, waveform overlap and entanglement density inc
 If black holes evaporate via Hawking radiation, what happens to the information that fell in? Does it violate unitarity?
 
 **Resolution in this Model (Speculative Extension):**  
-In this model, Hawking radiation is understood as a fault recovery mechanism that responds when part of the universe's entangled state becomes unreachable. Unlike pair-based models, this theory assumes the universe is globally entangled — a continuous causal mesh. When part of this mesh is lost behind an event horizon, it leaves behind unresolved causal references — like a snapped thread in a spiderweb. To prevent systemic resolution failure, the mesh initiates a form of quantum "garbage collection" to ti...
+In this model, Hawking radiation is potentially understood as a fault recovery mechanism that responds when part of the universe's entangled state becomes unreachable. Unlike pair-based models, this theory assumes the universe is globally entangled — a continuous causal mesh. When part of this mesh is lost behind an event horizon, it leaves behind unresolved causal references — like a snapped thread in a spiderweb.
+
+This creates dangling causal references — unresolved gate paths that cannot complete because the entangled state has become inaccessible. If left unresolved, these would accumulate and potentially disrupt the integrity of the global resolution system.
+
+To prevent this, the universe initiates a kind of quantum "garbage collection" — a slow, gate-cost-intensive re-resolution process near the horizon that probabilistically releases energy in the form of Hawking radiation. This radiation isn’t random thermal noise, but a degraded recompute — the mesh’s best effort to re-tie lost strands using whatever adjacent context remains.
 
 **Example:**  
 As matter collapses into a black hole, the rest of the universe must re-stabilize the mesh. The "radiation" emitted is not a neat trace of the original states, but the minimum output required to tie off dangling entanglements and preserve computational coherence. This can appear thermal, noisy, and irreversible — but it arises from the structural need to resolve disconnected gate paths and maintain global consistency.
