@@ -187,19 +187,26 @@ As matter collapses under gravity, waveform overlap and entanglement density inc
 
 ---
 
+
+---
+
+
+---
+
+
 ### 3. Hawking Radiation and Information Loss
 
 **Paradox:**  
 If black holes evaporate via Hawking radiation, what happens to the information that fell in? Does it violate unitarity?
 
-**Resolution in this Model:**  
-Information isn’t destroyed but *disentangled and diffused*. Hawking radiation is not pure thermal noise but represents the slow release of resolved quantum states via quantum tunneling and horizon fluctuations. These processes occur when the global mesh can begin re-resolving gate paths at the edge of the horizon — a gradual external re-entanglement.
+**Resolution in this Model (Speculative Extension):**  
+In this model, Hawking radiation is understood as a fault recovery mechanism that responds when part of the universe's entangled state becomes unreachable. Unlike pair-based models, this theory assumes the universe is globally entangled — a continuous causal mesh. When part of this mesh is lost behind an event horizon, it leaves behind unresolved causal references — like a snapped thread in a spiderweb. To prevent systemic resolution failure, the mesh initiates a form of quantum "garbage collection" to ti...
 
 **Example:**  
-As black holes evaporate, gate cost at the horizon decreases. Certain quantum fluctuations at the edge may allow previously unresolved entangled information to recompute into outgoing radiation. The model suggests that evaporation is not a destruction of information, but a resolution bottleneck that eventually clears over vast timeframes.
+As matter collapses into a black hole, the rest of the universe must re-stabilize the mesh. The "radiation" emitted is not a neat trace of the original states, but the minimum output required to tie off dangling entanglements and preserve computational coherence. This can appear thermal, noisy, and irreversible — but it arises from the structural need to resolve disconnected gate paths and maintain global consistency.
 
+> **Note:** This interpretation is speculative and not required for the core computational model. It offers a conceptual scaffold for how black hole evaporation could emerge from entanglement-aware gate mesh logic, rather than from traditional pair-creation models.
 
----
 
 ### 4. The Forward Arrow of Time
 
