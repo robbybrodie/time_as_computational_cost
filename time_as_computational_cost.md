@@ -13,6 +13,15 @@ Under this framework, systems with greater waveform resolution complexity — du
 
 This reframing dissolves the distinction between quantum evolution and relativistic time dilation by viewing both as limits imposed by a finite-resolution gate mesh. Collapse, motion, and even black hole formation are recast as computational behaviors — all governed by the cost of resolving probability into observation.
 
+The proposal solves the the dicchotomy that SR and GR both describe how time slows down, but they offer no shared mechanism.
+
+SR: Time slows because you're moving fast.  You have budget to move through space and time and the two offset each other in budget use.
+GR: Time slows because you're in a gravitational field and are bending spacetime.
+
+There’s no single physical principle unifying these effects — they’re just modeled by different geometries.  This theory attmepts to resolve this disconnect via Quantum concepts by reframing both effects as consequences of computational cost in resolving complex quantum states — whether that complexity comes from velocity (spreading waveform accoss the universe) or from mass/gravity (condensing waveforms in the universe).
+
+In this model both now get budget; the same budget, and the same underlying quantum process.  Whereas with GR and SR only SR has budget.
+
 ---
 ---
 
