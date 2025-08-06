@@ -9,18 +9,18 @@
 
 This paper proposes a computational model in which time, mass, and gravity are not fundamental features of the universe, but emergent byproducts of the gate complexity required to resolve quantum waveforms. The model unifies principles from quantum mechanics, special and general relativity, and information theory by reframing time as the cost of computation, not a background parameter.
 
-Under this framework, systems with greater waveform resolution complexity — due to velocity, gravitation, or entanglement — experience time dilation not because of motion or mass itself, but because more quantum gate operations are required to evolve them. Observable time becomes a function of local computational throughput. Mass is not a primitive input but a measure of persistent waveform complexity across localized regions of spacetime and the waveform of a speeding mass is smeared across the regions. 
+Under this framework, systems with greater waveform resolution complexity - due to velocity, gravitation, or entanglement - experience time dilation not because of motion or mass itself, but because more quantum gate operations are required to evolve them. Observable time becomes a function of local computational throughput. Mass is not a primitive input but a measure of persistent waveform complexity across localized regions of spacetime and the waveform of a speeding mass is smeared across the regions. 
 
-This reframing dissolves the distinction between quantum evolution and relativistic time dilation by viewing both as limits imposed by a finite-resolution gate mesh. Collapse, motion, and even black hole formation are recast as computational behaviors — all governed by the cost of resolving probability into observation.
+This reframing dissolves the distinction between quantum evolution and relativistic time dilation by viewing both as limits imposed by a finite-resolution gate mesh. Collapse, motion, and even black hole formation are recast as computational behaviors - all governed by the cost of resolving probability into observation.
 
 The proposal solves the the dichotomy that SR and GR both describe how time slows down, but they offer no shared mechanism.
 
-SR: Time slows because you're moving fast.  You have fixed mandatory common budget to move through both space and time but two offset each other in budget use.
+SR: Time slows because you're moving fast.  You have fixed mandatory common budget to move through both space and time but they offset each other in budget use.
 GR: Time slows because you're in a gravitational field and are curving spacetime.
 
 There’s no single physical principle unifying these effects — they’re just modeled by different geometries.  This theory attmepts to resolve this disconnect via Quantum concepts by reframing both effects as consequences of computational cost in resolving complex quantum states — whether that complexity comes from velocity (spreading waveform accoss the universe) or from mass/gravity (condensing waveforms in the universe).
 
-In this model both get budget; the same budget, and the same underlying quantum process.  Whereas with GR and SR only SR has budget.
+In this model both get budget; the same budget, and the same underlying quantum process.  Whereas with GR and SR, only SR has budget.
 
 ---
 ---
