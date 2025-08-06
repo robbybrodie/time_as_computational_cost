@@ -15,8 +15,8 @@ This reframing dissolves the distinction between quantum evolution and relativis
 
 The proposal solves the the dicchotomy that SR and GR both describe how time slows down, but they offer no shared mechanism.
 
-SR: Time slows because you're moving fast.  You have budget to move through space and time and the two offset each other in budget use.
-GR: Time slows because you're in a gravitational field and are bending spacetime.
+SR: Time slows because you're moving fast.  You have fixed mandatory common budget to move through both space and time but two offset each other in budget use.
+GR: Time slows because you're in a gravitational field and are curving spacetime.
 
 There’s no single physical principle unifying these effects — they’re just modeled by different geometries.  This theory attmepts to resolve this disconnect via Quantum concepts by reframing both effects as consequences of computational cost in resolving complex quantum states — whether that complexity comes from velocity (spreading waveform accoss the universe) or from mass/gravity (condensing waveforms in the universe).
 
