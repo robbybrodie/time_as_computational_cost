@@ -1,4 +1,48 @@
 # WIP
+
+```mermaid
+classDiagram
+    class Observer {
+        +Location: (0,0)
+        +ReferenceFrame: PlanckLengthFixed
+    }
+
+    class PlanckContainer {
+        +Coordinates: (x,y)
+        +C_norm: float  "Normalized Complexity"
+        +E_local: float "Local Energy"
+        +C_max: float "Max Complexity per Tick"
+        +v: float "Relative Velocity"
+        +R: float "Local Curvature"
+        +f_v(): float "Lorentz factor"
+        +f_R(): float "GR redshift factor"
+        +isSaturated(): bool
+    }
+
+    class BlackHoleContainer {
+        +isSaturated() = true
+        +HorizonBoundary: bool
+    }
+
+    %% Formulas
+    class Formulas {
+        <<utility>>
+        +C_norm(x,y) = C(x,y) / C_max
+        +C_max = (2 * E_local / (π * ħ)) * t_p
+        +C(x,y) = E_local * f_v(v) * f_R(R)
+        +f_v(v) = 1 / sqrt(1 - (v/c)^2)
+        +f_R(R) = 1 / sqrt(1 - 2GM/(r c^2))
+    }
+
+    Observer --> PlanckContainer : observes
+    PlanckContainer <|-- BlackHoleContainer
+    PlanckContainer --> Formulas
+```
+
+
+
+
+
 # Time as Computational Cost: A Unified Framework for Quantum Evolution and Relativistic Effects
 
 **Author: Robert Brodie**
