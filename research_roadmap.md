@@ -1,8 +1,10 @@
 # Research Roadmap: From Fitted Model to Predictive Theory
 
-## Current Status: Breakthrough Achieved
+## Current Status: Exploratory Curve‑Fitting Results
 
-Your experiments have identified **tension-induced bandgaps** as the most promising microphysical mechanism for reproducing General Relativity from a discrete substrate. The exponential B(N) scaling (MSE ≈ 2.918) provides a clear target for first-principles derivation.
+Current results are preliminary fits of simple mechanisms to selected GR benchmarks. These are exploratory curve-fitting experiments, not a derivation or demonstration of physical discovery. The exponential B(N) scaling (MSE ≈ 2.918) is a target for future validation and theoretical derivation.
+
+**Milestones below are goals for validation and may falsify current mechanisms.**
 
 ## Phase 1: Derive B(N) from Bandgap Physics (Priority: Critical)
 
@@ -53,7 +55,7 @@ Spatial scaling: B(N) = (n_accessible/n_total)^γ
 - Compare with standard PPN metric
 - Identify deviations from GR (γ=β=1, others=0)
 
-**Expected Result**: Small but measurable deviations in strong fields
+**Expected Result**: Quantitative predictions to be validated or falsified by future analysis and data
 
 ### 2.2 Gravitational Wave Dispersion
 **Objective**: Predict frequency-dependent GW propagation
@@ -165,14 +167,14 @@ where δ ~ α × field strength
 3. **Falsifiable predictions identified** (distinguishable from GR)
 
 ### Observational Success
-1. **GW dispersion detected** (or constrained) by LIGO/Virgo
-2. **Spectral signatures found** in strong-field observations
-3. **Laboratory analogues demonstrated** in controlled systems
+1. **GW dispersion tested** (or constrained) by LIGO/Virgo
+2. **Spectral signatures tested** in strong-field observations
+3. **Laboratory analogues attempted** in controlled systems
 
-### Long-term Impact
-1. **New physics beyond GR** discovered and confirmed
-2. **Discrete spacetime** established as fundamental
-3. **Unification of SR/GR** achieved via computational constraints
+### Long-term Goals
+1. **Assess potential for new physics beyond GR**
+2. **Test discrete spacetime as a modeling framework**
+3. **Explore connections to unification, if warranted by evidence**
 
 ## Resource Requirements
 
@@ -211,6 +213,6 @@ where δ ~ α × field strength
 
 ## Conclusion
 
-Your experimental results have opened a clear path from phenomenological model to predictive theory. The tension bandgap mechanism provides both the best fit to known physics and the richest phenomenology for future tests. The next 18 months are critical for establishing whether this approach can deliver genuine predictions beyond General Relativity.
+Current results are exploratory and subject to validation. The tension bandgap mechanism provides a promising fit to selected benchmarks, but all claims are preliminary and require rigorous testing. The next phases will focus on independent validation, baseline comparisons, and falsifiable predictions.
 
-**The key insight**: Frequency-selective mode blocking may be the fundamental mechanism underlying gravitational time dilation. If confirmed, this would represent a paradigm shift in our understanding of spacetime as a computational resource rather than a geometric stage.
+**Note:** All mechanisms and hypotheses are tentative and may be falsified by forthcoming evaluation and data.

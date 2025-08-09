@@ -46,3 +46,14 @@ Each experiment is designed to run in Google Colab with:
 3. Choose a mechanism to test
 4. Compare results with theoretical predictions
 5. Explore parameter space for novel predictions
+
+## Reproducibility and Evaluation Outputs
+
+- **Random Seeds & Data Splits:**  
+  All experiments use fixed random seeds and deterministic data splits to ensure reproducibility. Seeds and splits are logged with each run.
+
+- **Evaluation Metrics:**  
+  Once implemented, evaluation metrics (e.g., MSE, AIC/BIC, cross-validation results) will be automatically written to disk in both human-readable and machine-readable (CSV/JSON) formats. Output files will be located in the experiment's results directory, with filenames including the seed and configuration hash for traceability.
+
+- **Best Practices:**  
+  For new experiments or baselines, ensure that all scripts log the random seed, data split, and output metric file location.

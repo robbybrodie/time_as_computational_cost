@@ -1,3 +1,6 @@
+> **Disclaimer:**  
+> These results are preliminary and subject to revision. They do not constitute a claim of final correctness or completeness. All findings should be interpreted with appropriate scientific humility and are intended to guide further investigation.
+
 # Experimental Results Analysis: DoF Mechanisms vs Schwarzschild
 
 ## Executive Summary
@@ -122,3 +125,12 @@ Your experiments provide strong evidence that **tension-induced bandgaps** in a 
 4. **Path to first-principles derivation** of B(N)
 
 The next critical step is deriving the exponential B(N) scaling from fundamental bandgap physics, which would transform this from a fitted model into a predictive theory with falsifiable deviations from General Relativity.
+
+---
+
+## TODO
+
+- Integrate additional baselines for comparison
+- Implement AIC/BIC model selection metrics
+- Add cross-validation for all reported metrics
+- Include ablation studies for key mechanisms and parameters
