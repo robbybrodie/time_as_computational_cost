@@ -1,0 +1,101 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath,amssymb,geometry}
+\geometry{margin=1in}
+\title{Working Draft: Capacity-Limited Unification of SR and GR}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{Abstract}
+We present a working formulation in which both kinematic and gravitational time dilation emerge from a shared ``capacity budget'' constraint on a discrete substrate of spacetime. The approach separates SR-like effects from GR-like effects via a dilation map 
+\[
+\Gamma(\hat{s},\hat{\lambda}) = \frac{1}{\sqrt{1-\hat{s}^2}} \cdot \frac{1}{(1-\hat{\lambda})^p},
+\]
+where $\hat{s}$ encodes motion-induced capacity use and $\hat{\lambda}$ encodes internal load from curvature.  
+The model reproduces known weak-field limits and, with a suitable constitutive relation $B(N)$, recovers the Schwarzschild solution in isotropic coordinates. A key open objective is to derive $B(N)$ from explicit microphysical rules rather than curve-fitting, enabling falsifiable predictions.
+
+\section{Assumptions}
+\begin{enumerate}
+\item Spacetime is underpinned by a discrete voxel-like substrate with finite update capacity per Planck time.
+\item Capacity is consumed by two independent processes:
+  \begin{enumerate}
+    \item Kinematic smear $\hat{s}$ (relative motion).
+    \item Internal load $\hat{\lambda}$ (curvature/gravity).
+  \end{enumerate}
+\item Capacity constraint:
+\[
+\hat{s}^2 + \hat{\lambda}^2 \leq 1.
+\]
+\item Local proper time rate is given by
+\[
+\frac{d\tau}{dt} = \Gamma^{-1}(\hat{s},\hat{\lambda}).
+\]
+\item Lapse function defined as
+\[
+N = 1 - \hat{\lambda}.
+\]
+\end{enumerate}
+
+\section{Weak-Field Behaviour}
+For $\hat{s}^2 \ll 1$ and $\hat{\lambda} \ll 1$, expanding $\Gamma^{-1}$ gives:
+\[
+\Gamma^{-1} \approx 1 - \frac{\hat{s}^2}{2} - p \hat{\lambda}.
+\]
+Identifying $\hat{s}^2 \approx v^2/c^2$ and $\hat{\lambda} \approx -\Phi/c^2$ yields:
+\[
+\frac{d\tau}{dt} \approx 1 - \frac{v^2}{2c^2} + \frac{p\Phi}{c^2},
+\]
+matching SR and gravitational redshift forms for $p=1$.
+
+\section{Strong-Field Isotropic Schwarzschild Match}
+We choose $B(N)$ so that the spatial metric in isotropic coordinates matches Schwarzschild exactly:
+\[
+B(N) = \left( \frac{2}{1+N} \right)^4.
+\]
+With $N = \sqrt{1-2GM/(rc^2)}$ this reproduces:
+\[
+ds^2 = -\left(\frac{1-\frac{GM}{2\rho c^2}}{1+\frac{GM}{2\rho c^2}}\right)^2 c^2 dt^2 + \left(1+\frac{GM}{2\rho c^2}\right)^4 (d\rho^2 + \rho^2 d\Omega^2).
+\]
+This exact match confirms that the capacity framework can recover the full Schwarzschild geometry for static, spherically symmetric spacetimes.
+
+\section{Constitutive Relation $B(N)$}
+At present, $B(N)$ is fixed by demanding a match to Schwarzschild in isotropic coordinates.  
+This is \emph{curve-fitting}.  
+To progress from a reformulation to a predictive theory, $B(N)$ must instead be derived from independent microphysical principles describing voxel or string-like substrate dynamics.
+
+\subsection*{Open Target: Microphysical Derivation}
+We postulate that each voxel has a set of degrees of freedom whose effective resolution geometry changes when waveforms ``smear'' across voxel boundaries.  
+This smear alters both the lapse $N$ and the spatial scale factor $B(N)$ according to local load distribution rules.  
+If these rules are specified \emph{a priori}, without input from GR solutions, then:
+\begin{enumerate}
+\item $B(N)$ becomes a prediction, not a fit.
+\item The model gains falsifiable deviations from GR in regimes where the microphysics diverge from continuum assumptions.
+\end{enumerate}
+
+\section{Derivation Path (Future Work)}
+The necessary steps to remove curve-fitting:
+\begin{enumerate}
+\item Define the substrate degrees of freedom (e.g., string/brane vibrations, discrete geometric connections).
+\item Specify a local update rule or micro-action $S_{\text{micro}}$ with Lorentz-compatible symmetries.
+\item Derive $\hat{s}$, $\hat{\lambda}$, $p$, and $B(N)$ in the continuum limit.
+\item Compute post-Newtonian parameters with $p$ and $B(N)$ fixed.
+\item Identify at least one measurable deviation from GR (e.g., gravitational wave dispersion, black hole shadow distortion).
+\end{enumerate}
+
+\section{Why This Matters}
+If successful, the model would:
+\begin{itemize}
+\item Provide a common computational origin for SR and GR effects.
+\item Predict both weak- and strong-field phenomena from one microphysical rule set.
+\item Bridge discrete and continuous pictures of spacetime.
+\end{itemize}
+Failure to find a principled $B(N)$ would leave the model as a descriptive reformulation only.
+
+\section*{Conclusion}
+We have shown that a simple capacity constraint can unify SR and GR time dilation and reproduce Schwarzschild geometry in the strong-field limit.  
+However, this success currently rests on a fitted constitutive relation $B(N)$.  
+The central open problem is to derive $B(N)$ from independent voxel/string microphysics, enabling genuine predictions beyond GR.
+
+\end{document}
