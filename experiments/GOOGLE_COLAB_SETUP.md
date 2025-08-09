@@ -153,8 +153,8 @@ With the Google Colab MCP server:
 ### Colab Links for Current Notebooks
 
 ✅ Both notebooks now have "Open in Colab" badges and can be accessed at:
-- [DoF Mechanisms Explorer](https://colab.research.google.com/github/robbybrodie/time_as_computational_cost/blob/main/dof_mechanisms_explorer.ipynb)
-- [Validation Against GR](https://colab.research.google.com/github/robbybrodie/time_as_computational_cost/blob/main/validation_against_gr.ipynb)
+- [DoF Mechanisms Explorer](https://colab.research.google.com/github/robbybrodie/time_as_computational_cost/blob/main/experiments/notebooks/dof_mechanisms_explorer.ipynb)
+- [Validation Against GR](https://colab.research.google.com/github/robbybrodie/time_as_computational_cost/blob/main/experiments/notebooks/validation_against_gr.ipynb)
 
 ## Links
 
